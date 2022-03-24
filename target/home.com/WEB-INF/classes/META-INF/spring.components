@@ -1,0 +1,3 @@
+com.simplilearn.workshop.controller.BroController=org.springframework.stereotype.Component
+com.simplilearn.workshop.controller.MomController=org.springframework.stereotype.Component
+com.simplilearn.workshop.controller.SisController=org.springframework.stereotype.Component
